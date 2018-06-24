@@ -5,7 +5,7 @@
 **************
 
 如果能访问外网，推荐使用pip安装，pip安装可以参考 `地址 <https://pip.pypa.io/en/stable/installing/>`_ ，
-推荐使用 `阿里云镜像 <http://mirrors.aliyun.com/help/pypi>`_ 加快下载速度。
+推荐使用 `阿里云镜像 <http://mirrors.aliyun.com>`_ 加快下载速度。
 
 接着确保 setuptools 和 requests 的版本，对于非 Windows 用户可以安装 Cython 加速 Tunnel 上传下载：
 
